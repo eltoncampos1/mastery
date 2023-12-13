@@ -2,7 +2,6 @@ defmodule Mastery do
   @moduledoc """
   Documentation for `Mastery`.
   """
-
   @doc """
   Hello world.
 
